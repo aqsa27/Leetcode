@@ -1,2 +1,2 @@
 # Leetcode
-This Repository contains the Solutions to Problems i solve on Leetcode in Python 3
+This Repository contains the Solutions to Problems I solve on Leetcode in Python 3
